@@ -18,7 +18,7 @@ public class Game{
 		}
 	}
 	
-   //Initialasation with 14 tiles having 0 value 2 tiles randomly selected and having either 2 or 4 as value
+   //Initialization with 14 tiles having 0 value 2 tiles randomly selected and having either 2 or 4 as value
 	public Game() {
 		
 		board = new int[4][4];
