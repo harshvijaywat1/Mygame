@@ -31,7 +31,7 @@ public class Game{
 		addNumber();addNumber();
 	}
 	
-     //Method to randomly select an empty tile and fill its value to either 2 or 4
+     //Method to randomly select an empty tile and fill its value with either 2 or 4
 	public void addNumber(){
 		if(!isFull()){
 			Random ir = new Random();
